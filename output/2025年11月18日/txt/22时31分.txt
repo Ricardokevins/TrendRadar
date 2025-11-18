@@ -1,0 +1,132 @@
+juejin | 掘金
+1. 今天 Cloudflare 全球事故，连 GPT 和你的网站都一起“掉线”了 [URL:https://juejin.cn/post/7573680361991077928]
+2. 我为什么说全栈正在杀死前端？ [URL:https://juejin.cn/post/7573172586839834676]
+3. Snapchat 开源全新跨平台框架 Valdi ，一起来搞懂它究竟有什么特别之处 [URL:https://juejin.cn/post/7572697146288177202]
+4. 🔥 大模型时代最讽刺的职业出现了：“大模型善后工程师” [URL:https://juejin.cn/post/7572997791451070502]
+5. 前端实时推送 & WebSocket 面试题（2026版） [URL:https://juejin.cn/post/7572539461478907947]
+6. AI Agent : CrewAI 简单使用 + 尝试一下股票分析 [URL:https://juejin.cn/post/7572714389943615540]
+7. Cursor 一年深度开发实践：前端开发的效率革命🚀 [URL:https://juejin.cn/post/7573193563053522985]
+8. MyBatis-Plus 不只是简化CRUD！资深架构师总结的15个高阶用法 [URL:https://juejin.cn/post/7572524368876109859]
+9. 大部分人都错了！这才是chrome插件多脚本通信的正确姿势 [URL:https://juejin.cn/post/7573521516324732955]
+10. 面试过别人后，我对面试祛魅了 [URL:https://juejin.cn/post/7573592127298273330]
+11. Unibest：新一代uni-app工程化最佳实践指南 [URL:https://juejin.cn/post/7572480736361889798]
+12. 栗子前端技术周刊第 106 期 - pnpm 10.21、Node.js v25.2.0、Bun v1.3.2... [URL:https://juejin.cn/post/7572921387745886214]
+13. 17. Vue3 业务组件库按需加载的实现原理 [URL:https://juejin.cn/post/7572480736362119174]
+14. 让 Flutter 资源管理更智能 [URL:https://juejin.cn/post/7572539461479530539]
+15. 巧用辅助线，轻松实现类拼多多的 Tab 吸顶效果 [URL:https://juejin.cn/post/7572539461479546923]
+16. 别再死磕框架了！你的技术路线图该更新了 [URL:https://juejin.cn/post/7573694361474629659]
+17. Jetpack Compose Navigation 2.x 详解 [URL:https://juejin.cn/post/7572497847771136027]
+18. 搞不懂作用域链？这篇文章让你一眼秒懂！ [URL:https://juejin.cn/post/7573241978902560783]
+19. LLM 交互的“省钱”新姿势：JSON 已死，TOON 当立 [URL:https://juejin.cn/post/7572453554331009024]
+20. Monorepo性能噩梦：一行配置解决VSCode卡顿与TS类型崩溃 [URL:https://juejin.cn/post/7572434032518807598]
+21. REST API 与前后端交互：让应用真正跑起来 [URL:https://juejin.cn/post/7572781559766548530]
+22. LangChain 1.0 发布：agent 框架正式迈入生产级 [URL:https://juejin.cn/post/7572972346072727579]
+23. 响应式页面设计与实现：让网站适配所有设备的艺术 [URL:https://juejin.cn/post/7572525491538919466]
+24. 打包票！前端和小白一定明白的人工智能基础概念！ [URL:https://juejin.cn/post/7573592127299108914]
+25. Nacos 源码深度畅游：Nacos 配置同步详解（上） [URL:https://juejin.cn/post/7572485825705558025]
+26. 🔥Angular开发者看过来：不止于Vue，MateChat智能化UI库现已全面支持Angular！ [URL:https://juejin.cn/post/7573593395798605870]
+27. 一个超级真实的Three.js树🌲生成器插件 [URL:https://juejin.cn/post/7573588675638099983]
+28. Langchain Template 全面指南 [URL:https://juejin.cn/post/7573535624532639763]
+29. Flutter,Compose,Web 在Android平台上从布局到屏幕的机制探究 [URL:https://juejin.cn/post/7572480736362266630]
+30. 大模型能写80%的代码，却写不到95%？我成了“AI代码售后工程师” [URL:https://juejin.cn/post/7572087162230571050]
+
+github | GitHub
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+11. yangshun / tech-interview-handbook [URL:https://github.com/yangshun/tech-interview-handbook]
+12. microsoft / call-center-ai [URL:https://github.com/microsoft/call-center-ai]
+13. MustardChef / WSABuilds [URL:https://github.com/MustardChef/WSABuilds]
+14. playcanvas / engine [URL:https://github.com/playcanvas/engine]
+15. iptv-org / iptv [URL:https://github.com/iptv-org/iptv]
+16. Zie619 / n8n-workflows [URL:https://github.com/Zie619/n8n-workflows]
+17. milvus-io / milvus [URL:https://github.com/milvus-io/milvus]
+18. wolfpld / tracy [URL:https://github.com/wolfpld/tracy]
+
+v2ex | V2EX
+1. 纠结症救星来了😭：我做了一个 抛硬币 的小工具 [URL:https://www.v2ex.com/t/1173593]
+2. 小鱼旅记——标记你的最爱地点，记录你的精彩旅程 [URL:https://www.v2ex.com/t/1173591]
+3. 刚才 cloudflare 挂了 [URL:https://www.v2ex.com/t/1173589]
+4. 好奇 v2 节点列表的帖子排序规则 [URL:https://www.v2ex.com/t/1173588]
+5. [送会员啦]我们做了一款自动记录操作、生成图文步骤的浏览器插件叫"智写流程(iGenflow)" [URL:https://www.v2ex.com/t/1173580]
+6. 做了一个 抛硬币 网站 - 用最简单的方式做决定 [URL:https://www.v2ex.com/t/1173579]
+7. 有没有人开发一个 iOS 上类似 OPPO 的小布记忆的语音 memo [URL:https://www.v2ex.com/t/1173576]
+8. 分享书单 [URL:https://www.v2ex.com/t/1173574]
+9. 分享一个如何更好的领京东外卖优惠券的方法 [URL:https://www.v2ex.com/t/1173568]
+10. ai 堆屎，恐怖如斯 [URL:https://www.v2ex.com/t/1173564]
+11. UZI 真的复出了吗 [URL:https://www.v2ex.com/t/1173561]
+12. 国产系统的重装踩坑之旅 [URL:https://www.v2ex.com/t/1173533]
+13. 泡泡排课，让排课更简单 [URL:https://www.v2ex.com/t/1173532]
+14. 分享一个工具，全自动的数据分析体验 [URL:https://www.v2ex.com/t/1173530]
+15. 从 0 到 1，独立完整的做一个产品并上线，这个能力在程序员中普遍吗？ [URL:https://www.v2ex.com/t/1173527]
+16. 做了个工具解决 i18n 翻译协作痛点 - 翻译人员直接在页面上改文案，实时同步代码 [URL:https://www.v2ex.com/t/1173519]
+17. [分享] 整理了一个 LangChain v1 的完整示例仓库，包含 RAG / LangGraph / Agent 等模块 [URL:https://www.v2ex.com/t/1173516]
+18. 多多上买的那个 4 斤超大芒果，开吃啦 [URL:https://www.v2ex.com/t/1173517]
+19. 之前做的一个网站 Shop Sages [URL:https://www.v2ex.com/t/1173515]
+20. 我不会写生日贺卡，然后自己手画的又丑，我就用写一个网站，把原本上色和美化交给 ai。 [URL:https://www.v2ex.com/t/1173513]
+21. 你的 AI Coding 结束了, 别玩手机了! [URL:https://www.v2ex.com/t/1173508]
+22. 我用 PaddleOCR-VL + DeepSeek-OCR 搭了个真·免费 OCR 服务 [URL:https://www.v2ex.com/t/1173507]
+23. 有没有 AI 能实时总结我浏览器里播放的直播？ [URL:https://www.v2ex.com/t/1173503]
+24. 今天才知道介错人是什么意思 [URL:https://www.v2ex.com/t/1173499]
+25. 信息泄露，弃贴 [URL:https://www.v2ex.com/t/1173498]
+26. 今天收到了 Fackbook 泄露隐私的罚款赔偿 [URL:https://www.v2ex.com/t/1173494]
+27. [iOS 内购限免] atvRemote，管理和控制支持 ADB 协议 的智能设备（如电视、机顶盒） [URL:https://www.v2ex.com/t/1173488]
+28. 经济越差，越是好产品脱颖而出的时候 [URL:https://www.v2ex.com/t/1173484]
+29. 可以给手机刷上原生 Linux 吗？ [URL:https://www.v2ex.com/t/1173478]
+30. 请教各位 V 友，如何调整心态 [URL:https://www.v2ex.com/t/1173473]
+
+pcbeta | 远景论坛
+1. massgrave无法访问了吗 [URL:https://bbs.pcbeta.com/viewthread-2057670-1-1.html]
+2. 25H2 26200 7019和7171版本无法安装 运行ACDSEE2026 [URL:https://bbs.pcbeta.com/viewthread-2057669-1-1.html]
+3. Windows 11 尝试 VHD 之后 PIN 错乱 [URL:https://bbs.pcbeta.com/viewthread-2057668-1-1.html]
+4. UUP版Win11 25H2 x64 26200.7296（RP版） [URL:https://bbs.pcbeta.com/viewthread-2057665-1-1.html]
+5. 如何能实现重启电脑或者windows更新时，微软商店不怎么更新三星快速分享 [URL:https://bbs.pcbeta.com/viewthread-2057662-1-1.html]
+6. 添加“管理员取得所有权”会造成文件夹默认打开方式出问题 [URL:https://bbs.pcbeta.com/viewthread-2057660-1-1.html]
+7. Epic CEO怒批Win11：任务栏不能动、账户强制登！马斯克下场力挺 [URL:https://bbs.pcbeta.com/viewthread-2057658-1-1.html]
+8. Windows Server 2025 Datacenter 26200.7296 升级成功 [URL:https://bbs.pcbeta.com/viewthread-2057654-1-1.html]
+9. win11 25h2 dolby解码恢复 [URL:https://bbs.pcbeta.com/viewthread-2057653-1-1.html]
+10. X1 tablet Gen3安装Windows11，键盘倾斜模式不能使用 [URL:https://bbs.pcbeta.com/viewthread-2057652-1-1.html]
+11. Win11 25H2 26220.7262 Build预览版x64更新很好 [URL:https://bbs.pcbeta.com/viewthread-2057650-1-1.html]
+12. 刚刚更新到Win11 25H2 26220.7262，不能连接5G WIFI了 [URL:https://bbs.pcbeta.com/viewthread-2057649-1-1.html]
+13. win11了不知道大家还在用搜狗输入法吗 [URL:https://bbs.pcbeta.com/viewthread-2057645-1-1.html]
+14. 6901更新了26200.7296，谈谈关于DWMBlurGlass玻璃特效失效的问题 [URL:https://bbs.pcbeta.com/viewthread-2057644-1-1.html]
+15. Windows 中的快速机器恢复~ [URL:https://bbs.pcbeta.com/viewthread-2057642-1-1.html]
+16. revios最新版25.10中文版本playbook [URL:https://bbs.pcbeta.com/viewthread-2057634-1-1.html]
+17. 关于BitLocker 驱动器加密-震惊到了 [URL:https://bbs.pcbeta.com/viewthread-2057633-1-1.html]
+18. 微星小飞机MSI afterburner 4.6.6主界面与内置RTSS汉化包 [URL:https://bbs.pcbeta.com/viewthread-2057628-1-1.html]
+19. 如何恢复已被优化的WIN11 25H2后，点击“程序”不弹出相关属性 [URL:https://bbs.pcbeta.com/viewthread-2057615-1-1.html]
+20. 系统信息里面啥时候多了一个“常见问题解答”？ [URL:https://bbs.pcbeta.com/viewthread-2057614-1-1.html]
+
+==== 以下ID请求失败 ====
+toutiao
+baidu
+thepaper
+ifeng
+cankaoxiaoxi
+sputniknewscn
+zaobao
+mktnews
+kaopu
+wallstreetcn-hot
+wallstreetcn-quick
+wallstreetcn-news
+cls-hot
+gelonghui
+xueqiu
+jin10
+fastbull
+zhihu
+ithome
+hackernews
+solidot
+nowcoder
+sspai
+producthunt
+chongbuluo
